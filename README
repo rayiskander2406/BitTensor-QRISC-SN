@@ -27,18 +27,18 @@ QRISC creates a decentralized marketplace for quantum-resistant processor design
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    BitTensor Network                     │
+│                    BitTensor Network                    │
 ├─────────────────────────────────────────────────────────┤
-│                                                          │
-│   Miners                          Validators            │
-│   ┌────────────┐                  ┌────────────┐       │
-│   │  Generate  │                  │   Score    │       │
-│   │  RISC-V +  │  ──Designs──>   │  Quantum   │       │
-│   │    PQC     │                  │ Resistance │       │
-│   │  Designs   │  <──Rewards──   │ Performance│       │
-│   └────────────┘                  └────────────┘       │
-│                                                          │
-│                     Output                               │
+│                                                         │
+│        Miners                        Validators         │
+│   ┌────────────┐                  ┌────────────┐        │
+│   │  Generate  │                  │   Score    │        │
+│   │  RISC-V +  │  ──Designs──>    │  Quantum   │        │
+│   │    PQC     │                  │ Resistance │        │
+│   │  Designs   │  <──Rewards──    │ Performance│        │
+│   └────────────┘                  └────────────┘        │
+│                                                         │
+│                     Output                              │
 │          ┌─────────────────────────────┐                │
 │          │ Production-Ready Quantum-   │                │
 │          │ Resistant Processor Designs │                │
@@ -87,7 +87,7 @@ QRISC creates a decentralized marketplace for quantum-resistant processor design
 ## 🚀 Getting Started
 
 ### Prerequisites
-```bash
+
 # System Requirements
 - Python 3.9 or higher
 - 8GB RAM minimum
@@ -96,13 +96,13 @@ QRISC creates a decentralized marketplace for quantum-resistant processor design
 # Required Software
 - Git
 - Python virtual environment
-```
+
 
 ### Installation
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/[yourusername]/BitTensor-QRISC-SN
+git clone https://github.com/rayiskander2406/BitTensor-QRISC-SN
 cd BitTensor-QRISC-SN
 ```
 
@@ -203,8 +203,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon) for guidelines.
 
 ### Community
 - Discord: Coming soon
-- Twitter: [@yourusername]
-- GitHub: [Issues & Discussions](https://github.com/[yourusername]/BitTensor-QRISC-SN/issues)
+- Twitter: Coming soon
+- GitHub: [Issues & Discussions](https://github.com/rayiskander2406/BitTensor-QRISC-SN/issues)
 
 ## 🔒 Security
 
@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📞 Contact
 
 - **Project Lead**: Ray Iskander
-- **GitHub**: [BitTensor-QRISC-SN](https://github.com/[yourusername]/BitTensor-QRISC-SN)
+- **GitHub**: [BitTensor-QRISC-SN](https://github.com/rayiskander2406/BitTensor-QRISC-SN)
 - **Email**: rayiskander2406@gmail.com
 
 ---
